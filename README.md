@@ -39,5 +39,6 @@ The software used for visualizing this dataset was powerBi.
 3. The top five active users were Theoyinbooke, Richie4love, Fabulousnani01, unstoppable_tp, and _Olisir respectively.
 4. Tweet by days of the week was highest on Wednesday.
 5. The highest engagement occurred on June 14, 2022.
+6.The top 3 sources for tweeting are Twitter for Android, Twitter for Web, and Twitter for iPhone.
 
 N: B To access this file, kindly request to grant you access as it is secured.
