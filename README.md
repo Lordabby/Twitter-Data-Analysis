@@ -1,21 +1,21 @@
 # Twitter-Data-Analysis
 Analysis of #Ng30daysof learning activities on twitter from the month of May 2022 - June 2022.
-----
+
 # PROBLEM OBJECTIVES
-What is the total no of tweets between May to June?
-Who are the top active users?
-what date has the highest tweet?
-Top three sources used for tweeting
-----
+* What is the total no of tweets between May to June?
+* Who are the top active users?
+* what date has the highest tweet?
+* Top three sources used for tweeting
+
 
 # DATA SOURCING
 The data used for this project was obtained from GitHub in a CSV format.
 https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/tree/main/Twitter%20Data%20Web%20Scrape
-----
+
 
 # DATA PREPARATION
 The dataset was converted into. XLSX format was stored in a secure worksheet.
-----
+
 
 # DATA TRANSFORMATION PROCESS
 Although the dataset aligned with the project objectives, it was cleaned via the following steps to ensure consistent and accurate results;
@@ -31,7 +31,7 @@ iii. The id, like,retweet_count, quote_count and reply_count data were formatted
 
 #DATA VISUALIZATION
 The software used for visualizing this dataset was powerBi.
-----
+
 
 # INSIGHT
 1. Between May to June, the total number of the tweet was 680.
